@@ -8,13 +8,13 @@ The goal of this analysis is to create a basic statistical analysis of the tempe
 ### June Analysis
 Based on the analysis, we can see that there are 1,700 observations for the months of June. This includes the years between 2010 and 2017. The average, minimum, and maximum temperatures are listed below. The low standard deviation implies a relatively small spread across the temperature observations. This makes sense, as Oahu weather does not seem to fluctuate significantly.
 
-![](surfs_up/june_result.png)
+![](june_result.png)
 
 
 ### December Analysis
 December, on the other hand, seems to only have 1,517 observation. This indicates that some of the dates are missing temperature recordings. However, this is already a large sample size, thus our analysis will still be relatively representative. From the charts, we can see that June and December are close in average, maximum, and minimum temperature. More importantly, the spread is about the same as the spread for the month of June.
 
-![](surfs_up/dec_result.png)
+![](dec_result.png)
 
 ## Summary
 
